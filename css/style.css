@@ -337,12 +337,16 @@ position: relative;
 }
 .comments_span span{
     float: left;
-    width: 50%;
+    width: 60%;
     margin-top: 4px;
+}
+.comments_up.no a{
+    position: relative;
+    left: 150px;
 }
 .comments_up a{
     float: left;
-    width: 60%;
+    width: 10%;
     text-align: right;
 }
 .comments_up a{
