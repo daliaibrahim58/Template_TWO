@@ -316,7 +316,7 @@ position: relative;
 }
 .comments_up{
     position: relative;
-    margin-left: 90px;
+    margin-left: 95px;
 }
 .comments_img{
     position: absolute;
@@ -333,7 +333,7 @@ position: relative;
 .comments_span h3{
     float: left;
     width: 30%;
-    margin-right: 20px;
+    margin-right: 10px;
 }
 .comments_span span{
     float: left;
