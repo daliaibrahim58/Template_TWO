@@ -250,7 +250,7 @@ top: 4px;
 }
 .person{
 border: 1px solid #f4f4f4;
-width: 80%;
+width: 90%;
 height:200;
 margin-top: 25px;
 }
@@ -313,6 +313,7 @@ position: relative;
 }
 .comments{
     margin-top: 130px;
+    width: 100%;
 }
 .comments_up{
     position: relative;
