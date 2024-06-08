@@ -332,12 +332,12 @@ position: relative;
 }
 .comments_span h3{
     float: left;
-    width: 40%;
+    width: 30%;
     margin-right: 20px;
 }
 .comments_span span{
     float: left;
-    width: 60%;
+    width: 70%;
     margin-top: 4px;
 }
 .comments_up.no a{
@@ -356,7 +356,7 @@ position: relative;
 }
 .comments p{
     width: 80%;
-    margin: 10px 0 50px 100px;
+    margin: 10px 0 50px 90px;
     color: #999;
     line-height: 1.5;
 }
